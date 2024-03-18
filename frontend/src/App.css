@@ -1,0 +1,9 @@
+
+.App{
+  background-image:url('../src/all.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+  
+}

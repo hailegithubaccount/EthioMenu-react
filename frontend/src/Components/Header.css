@@ -1,0 +1,35 @@
+.left-header>img{
+    margin-left:5rem ;
+    position:relative;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    
+
+}
+.Header{
+    display: flex;
+    padding:1rem 2rem;
+   
+}
+.left-header{
+   width:30%;
+}
+.right-header{
+    width:70%;
+}
+.right-header ul {
+    display: flex;
+    gap:5rem;
+    justify-content:end;
+    margin-right: 2rem;
+    color: white;
+    list-style: none;
+    text-transform: capitalize;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+}
+.right-header ul li:hover{
+    color: orange;
+}
